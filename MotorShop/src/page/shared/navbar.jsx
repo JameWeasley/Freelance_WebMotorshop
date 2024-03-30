@@ -7,7 +7,7 @@ export default function navbar() {
         <div className="container">
           <div className="nav-con">
             <div className="logo">
-              <img src="" alt="" />
+              <img src="logo2.png" alt="" width="100" style={{padding: '1rem'}}/>
             </div>
 
             <ul className="menu">
