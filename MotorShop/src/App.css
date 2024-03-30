@@ -38,6 +38,7 @@ nav {
 .product-info {
   border-radius: 10px;
   background-color: #000000a1;
+  margin: 0 5px;
 }
 
 .img-product img {
@@ -57,4 +58,10 @@ nav {
 
 .detail-product {
   padding: 1rem;
+}
+
+@media (max-width: 1024px) {
+  .menu {
+    display: none;
+  }
 }
