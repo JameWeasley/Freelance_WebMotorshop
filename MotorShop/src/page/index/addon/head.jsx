@@ -13,12 +13,12 @@ export default function head() {
             style={{ display: "flex", width: "50%" }}
           >
             <img
-              src="https://jcharon.com/img/b-home2.jpg"
+              src="2.jpg"
               alt=""
               width="100%"
             />
             <img
-              src="https://jcharon.com/img/b-home1.jpg"
+              src="1.jpg"
               alt=""
               width="100%"
             />

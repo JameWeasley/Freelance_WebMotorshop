@@ -53,7 +53,7 @@ export default function body() {
                   <div className="product-info">
                     <div className="img-product-detail">
                       <img
-                        src="https://jcharon.com/admin/productimages/22/f12b73797f1bba7e6c06f709cc1c66f1.jpg"
+                        src="new-1.jpg"
                         alt=""
                         width="100%"
                         height="auto"
@@ -73,7 +73,7 @@ export default function body() {
                   <div className="product-info">
                     <div className="img-product-detail">
                       <img
-                        src="https://jcharon.com/admin/productimages/28/15%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%20%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%B5%E2%80%8B%20HONDA%E2%80%8B%20WAVE%E2%80%8B%20110%E2%80%8Bi%20NEW%20(5).jpg"
+                        src="new-2.jpg"
                         alt=""
                         width="100%"
                         height="auto"
@@ -93,7 +93,7 @@ export default function body() {
                   <div className="product-info">
                     <div className="img-product-detail">
                       <img
-                        src="https://jcharon.com/admin/productimages/27/15%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%20%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%B5%E2%80%8B%20HONDA%E2%80%8B%20WAVE%E2%80%8B%20110%E2%80%8Bi%20NEW%20(4).jpg"
+                        src="new-3.jpg"
                         alt=""
                         width="100%"
                         height="auto"
@@ -113,7 +113,7 @@ export default function body() {
                   <div className="product-info">
                     <div className="img-product-detail">
                       <img
-                        src="https://jcharon.com/admin/productimages/26/15%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99%20%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%B5%E2%80%8B%20HONDA%E2%80%8B%20WAVE%E2%80%8B%20110%E2%80%8Bi%20NEW%20(3).jpg"
+                        src="new-4.jpg"
                         alt=""
                         width="100%"
                         height="auto"

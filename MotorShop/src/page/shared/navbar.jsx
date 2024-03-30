@@ -1,4 +1,5 @@
 import React from "react";
+import { FaCartPlus } from "react-icons/fa";
 
 export default function navbar() {
   return (
@@ -7,7 +8,12 @@ export default function navbar() {
         <div className="container">
           <div className="nav-con">
             <div className="logo">
-              <img src="logo2.png" alt="" width="100" style={{padding: '1rem'}}/>
+              <img
+                src="logo2.png"
+                alt=""
+                width="100"
+                style={{ padding: "1rem" }}
+              />
             </div>
 
             <ul className="menu">
@@ -24,6 +30,13 @@ export default function navbar() {
                 <a href="#">Contact Us</a>
               </li>
             </ul>
+
+            <div className="cart text-white" style={{ fontSize: "20px", cursor: 'pointer' }}>
+              <div className="cart-btn">
+                <FaCartPlus />
+                <span>ตะกร้าสินค้า</span>
+              </div>
+            </div>
           </div>
         </div>
       </nav>
