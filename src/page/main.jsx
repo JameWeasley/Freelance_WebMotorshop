@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from '../page/index/home'
+import Home from './index/home'
 
 export default function main() {
   return (

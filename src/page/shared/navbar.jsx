@@ -18,10 +18,10 @@ export default function navbar() {
 
             <ul className="menu">
               <li>
-                <a href="#">Home</a>
+                <a href="/">Home</a>
               </li>
               <li>
-                <a href="#">Product</a>
+                <a href="/store">Product</a>
               </li>
               <li>
                 <a href="#">About Us</a>

@@ -19,7 +19,6 @@ nav {
   align-items: center;
 }
 
-
 .menu {
   display: flex;
   margin: 0;
@@ -75,4 +74,14 @@ nav {
   .menu {
     display: none;
   }
+}
+
+.product-blog {
+  margin: 5px;
+  min-height: 460px;
+}
+
+.title-type {
+  width: 100%;
+  background-color: #333;
 }
