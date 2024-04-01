@@ -14,11 +14,19 @@ export default function honda() {
               <hr />
             </div>
             <div className="title-type">
-              ยี่ห้อ
+              <h3>ยี่ห้อ</h3>
             </div>
-            <h2>YAMAHA</h2>
-            <h2>HONDA</h2>
-            <h2>KAWASAKI</h2>
+            <div className="menu-select">
+            <h4>YAMAHA</h4>
+            </div>
+
+            <div className="menu-select">
+            <h4>HONDA</h4>
+            </div>
+
+            <div className="menu-select">
+            <h4>KAWASAKI</h4>
+            </div>
           </div>
 
           <div className="col-md-9 text-white">
@@ -27,7 +35,7 @@ export default function honda() {
             </div>
             <div className="product-list">
               <div className="row">
-                <div className="product-blog col-sm-6 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
+                <div className="product-blog col-sm-12 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
                   <div className="img-pr">
                     <img src="honda_1.jpg" alt="" width="100%" />
                   </div>
@@ -36,7 +44,7 @@ export default function honda() {
                   <button className="btn btn-dark w-100">เพิ่มลงตะกร้า</button>
                 </div>
 
-                <div className="product-blog col-sm-6 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
+                <div className="product-blog col-sm-12 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
                   <div className="img-pr">
                     <img src="honda_1.jpg" alt="" width="100%" />
                   </div>
@@ -45,7 +53,7 @@ export default function honda() {
                   <button className="btn btn-dark w-100">เพิ่มลงตะกร้า</button>
                 </div>
 
-                <div className="product-blog col-sm-6 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
+                <div className="product-blog col-sm-12 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
                   <div className="img-pr">
                     <img src="honda_1.jpg" alt="" width="100%" />
                   </div>
@@ -54,7 +62,7 @@ export default function honda() {
                   <button className="btn btn-dark w-100">เพิ่มลงตะกร้า</button>
                 </div>
 
-                <div className="product-blog col-sm-6 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
+                <div className="product-blog col-sm-12 col-md-4 col-lg-3" style={{ background: '#000000a1', borderRadius: '10px', padding: '5px' }}>
                   <div className="img-pr">
                     <img src="honda_1.jpg" alt="" width="100%" />
                   </div>
