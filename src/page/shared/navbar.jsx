@@ -24,10 +24,10 @@ export default function navbar() {
                 <a href="/store">Product</a>
               </li>
               <li>
-                <a href="#">About Us</a>
+                <a href="/about">About Us</a>
               </li>
               <li>
-                <a href="#">Contact Us</a>
+                <a href="/contact">Contact Us</a>
               </li>
             </ul>
 

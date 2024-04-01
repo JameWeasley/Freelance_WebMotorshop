@@ -85,3 +85,19 @@ nav {
   width: 100%;
   background-color: #333;
 }
+
+.about-text-head p {
+  font-size: 20px;
+}
+
+.about-text-bottom p {
+  font-size: 20px;
+}
+
+.box-1 p {
+  font-size: 30px;
+}
+
+.box-2 p {
+  font-size: 30px;
+}

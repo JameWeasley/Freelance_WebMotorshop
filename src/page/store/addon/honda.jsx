@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from '../../shared/navbar'
+import Footer from '../../shared/footer'
 
 
 export default function honda() {
@@ -66,6 +67,8 @@ export default function honda() {
           </div>
         </div>
       </div>
+
+      <Footer/>
     </>
   )
 }
