@@ -147,5 +147,93 @@ nav {
 
 .type-head hr {
   margin: 5px 0 20px 0;
+}
 
+.header-cart {
+  background: #333;
+  justify-content: space-between;
+}
+
+.body-cart-detail {
+  justify-content: space-between;
+  background: rgba(0, 0, 0, 0.63);
+  align-items: center;
+}
+
+.img-cart-item {
+  display: flex;
+  align-items: center;
+}
+
+.detail-item-cart {
+  margin: 0 50px;
+}
+
+.quantity input {
+  width: 60px;
+}
+
+.tb-flex {
+  display: flex;
+  align-items: center;
+  --bs-border-radius: 10px;
+}
+
+.item-detail-cart {
+  margin: 0 50px;
+}
+
+td input {
+  width: 90px;
+  height: 30px;
+  margin-top: 50px;
+  padding: 10px;
+  outline: none;
+}
+
+.table>:not(caption)>*>* {
+  background-color: #000000a1 !important;
+  color: #fff !important;
+  padding: 20px !important;
+}
+
+.quantity-cart {
+  display: flex;
+  justify-content: center;
+}
+
+.price-cart {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.width-cart {
+  width: 40% !important;
+}
+
+.btn-add {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.btn-1 {
+  margin: 0 5px;
+}
+
+.table {
+  border-radius: 20px !important;
+}
+
+.btn-ym {
+  margin-top: 33px !important;
+}
+
+.btn-ym-2 {
+  margin-top: 58px
+}
+
+.btn-ym-3 {
+  margin-top: 41px;
 }

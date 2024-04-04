@@ -7,6 +7,7 @@ import HomePage from './page/index/home';
 import StorePage from './page/store/store';
 import AboutPage from './page/about/about'
 import ContactPage from './page/contact/contact'
+import CartPage from './page/cart/cart'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.js';
 
@@ -22,6 +23,7 @@ function App() {
           <Route path="/store" element={<StorePage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/cart" element={<CartPage />} />
         </Routes>
       </Router>
     </>

@@ -10,7 +10,7 @@ export default function contact() {
         <>
             <Navbar />
 
-            <div className="container">
+            <div className="container" style={{height: '750px'}}>
                 <div className="row">
                     <div className="info-contact text-center text-white mt-3">
                         <h1>J-CHARON FAIRING CONTACT US</h1>

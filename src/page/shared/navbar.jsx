@@ -33,8 +33,10 @@ export default function navbar() {
 
             <div className="cart text-white" style={{ fontSize: "20px", cursor: 'pointer' }}>
               <div className="cart-btn">
-                <FaCartPlus />
-                <span>ตะกร้าสินค้า</span>
+                <a href="/cart">
+                  <FaCartPlus />
+                  <span>ตะกร้าสินค้า</span>
+                </a>
               </div>
             </div>
           </div>
