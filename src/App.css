@@ -83,7 +83,6 @@ nav {
 
 .title-type {
   width: 100%;
-  background-color: #333;
   padding: 3px;
 }
 
@@ -236,4 +235,13 @@ td input {
 
 .btn-ym-3 {
   margin-top: 41px;
+}
+
+.bg-menu-active {
+  background-color: #333;
+}
+
+.cart-btn a {
+  text-decoration: none;
+  color: #fff;
 }

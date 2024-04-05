@@ -27,8 +27,8 @@ export default function carthead() {
                   <input type="text" />
                 </div>
                 <div className="btn-add">
-                  <button className='btn btn-success btn-1'>เพิ่ม</button>    
-                  <button className='btn btn-warning btn-1'>ลด</button>    
+                  <button className='btn btn-success btn-1'>+</button>    
+                  <button className='btn btn-warning btn-1'>-</button>    
                 </div>
               </td>
               <td>
@@ -52,8 +52,8 @@ export default function carthead() {
                   <input type="text" />
                 </div>
                 <div className="btn-add">
-                  <button className='btn btn-success btn-1'>เพิ่ม</button>    
-                  <button className='btn btn-warning btn-1'>ลด</button>    
+                  <button className='btn btn-success btn-1'>+</button>    
+                  <button className='btn btn-warning btn-1'>-</button>    
                 </div>
               </td>
               <td>
@@ -78,8 +78,8 @@ export default function carthead() {
                   <input type="text" />
                 </div>
                 <div className="btn-add">
-                  <button className='btn btn-success btn-1'>เพิ่ม</button>    
-                  <button className='btn btn-warning btn-1'>ลด</button>    
+                  <button className='btn btn-success btn-1'>+</button>    
+                  <button className='btn btn-warning btn-1'>-</button>    
                 </div>
               </td>
               <td>
